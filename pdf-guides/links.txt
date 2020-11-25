@@ -1,0 +1,2 @@
+https://crascit.com/tag/cmake/
+https://github.com/TheErk/CMake-tutorial
