@@ -1,0 +1,12 @@
+best setup is to run this repo in a docker image, but I do not want to install docker uncessarily
+need to brew install cmake
+need to install pipenv
+(NO)pip3 install --user pip
+(Yes: so we can run the tests) brew install pipenv see: https://medium.com/level-up-programming/how-to-use-python-pipenv-in-mac-and-windows-1c6dc87b403e
+(YES) just use virtualenv and install from requirements.txt
+brew install eigen
+brew install mpich
+do teh full boost setup
+do the minggw64 cross compiler
+brew install ossp-uuid pkg-config zeromq doxygen
+
