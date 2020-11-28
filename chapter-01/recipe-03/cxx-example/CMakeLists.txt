@@ -13,4 +13,5 @@ add_library(message
 
 add_executable(hello-world hello-world.cpp)
 
+# link the executable to the library that we generated
 target_link_libraries(hello-world message)
